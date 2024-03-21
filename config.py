@@ -1,2 +1,2 @@
-TOKEN = '7043564076:AAHxoole5jRbFG9dK_gCi7k_u0n2pIEnXto'
-API = '0eb93ac565cf3c502e9f9901012af87b'
+TOKEN = ''
+API = ''
